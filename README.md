@@ -1,4 +1,4 @@
-<p align="center">୨୧ ⏔⏔⏔♡⏔⏔⏔ ୨୧</p>
+<p align="center">୨୧ ⏔⏔⏔ Current profile theme ; Warden Eternal ♡ Halo ⏔⏔⏔ ୨୧</p>
 
 </div>
 
@@ -16,15 +16,15 @@
       <h3>· · ─ ·✶· ─ · · 𝗛𝗘𝗟𝗟𝗢! · · ─ ·✶· ─ · ·</h3>
       <p>Call me Jayce or Geo! My main is @actuallyjaycetalis</p>
       <p>This is a secondary account for following people!</p>
-      <p>I will follow back people who have followed me & ppl I find cool</p>
-      <p>I do not check profiles and idk whos problematic sorry :(</p>
+      <p>And also to match wtv fandom I'm currently in.</p>
+      <p>I do not check profiles and idk whos problematic sorry</p>
     </td>
   </tr>
 </table>
 
 __________________________________________________________________________________________
 
-<p align="center"><img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/d9bc7c0b-1b58-49c5-a379-e33c808e6a9b" /></p>
+<p align="center"><img width="990" height="100" alt="image" src="https://github.com/user-attachments/assets/d9bc7c0b-1b58-49c5-a379-e33c808e6a9b" /></p>
 
 __________________________________________________________________________________________
 
@@ -40,8 +40,8 @@ ________________________________________________________________________________
     <!-- Content/Text Column -->
     <td width="50%" valign="middle">
       <h3>· · ─ ·✶· ─ · · 𝗔𝗣𝗣𝗥𝗘𝗖𝗜𝗔𝗧𝗜𝗢𝗡 · · ─ ·✶· ─ · · </h3>
-      <p>Thank you pt-ship-nominations for being my first nomination!</p>
-      <p>As Ponytown's 𝗝𝗔𝗬𝗖𝗘 & 𝗝𝗔𝗬𝗩𝗜𝗞! (Arcane/League of Legends)</p>
+      <p>Thank you pt-ship-nominations for choosing me!</p>
+      <p>As 𝗝𝗔𝗬𝗖𝗘 & 𝗝𝗔𝗬𝗩𝗜𝗞! (Arcane/League of Legends)</p>
       <p>────♡︎────</p>
       <p>Thank YOU for sticking around and reading/following me.</p>
       <p>Leave a sign on my ATA if you'd like! It'd mean a lot!!</p>
