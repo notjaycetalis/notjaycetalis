@@ -14,7 +14,7 @@
     <!-- Content/Text Column -->
     <td width="50%" valign="middle">
       <h3>· · ─ ·✶· ─ · · 𝗛𝗘𝗟𝗟𝗢! · · ─ ·✶· ─ · ·</h3>
-      <p>Call me Jayce or Geo! My main is @actuallyjaycetalis</p>
+      <p>Call me whatever cos I am, or Geo! My main is @FlSHBONEZ</p>
       <p>This is a secondary account for following people!</p>
       <p>And also to match wtv fandom I'm currently in.</p>
       <p>I do not check profiles and idk whos problematic sorry</p>
